@@ -29,7 +29,7 @@ A card game of Snap that runs in the terminal, using Java.
   <img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">&nbsp;&nbsp;&nbsp;
   <img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">&nbsp;&nbsp;&nbsp;
   <img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">&nbsp;&nbsp;&nbsp;
-  <img height="30" src="https://w7.pngwing.com/pngs/415/393/png-transparent-django-plain-logo-icon-thumbnail.png">&nbsp;&nbsp;&nbsp;
+  <img height="30" src="https://w7.pngwing.com/pngs/159/366/png-transparent-django-python-computer-icons-logo-python-text-label-rectangle-thumbnail.png">&nbsp;&nbsp;&nbsp;
   <img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">&nbsp;&nbsp;&nbsp;
   <img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">&nbsp;&nbsp;&nbsp;
   <img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">&nbsp;&nbsp;&nbsp;
@@ -42,7 +42,7 @@ A card game of Snap that runs in the terminal, using Java.
   <img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg">&nbsp;&nbsp;&nbsp;
   <img height="30" src="https://testing-library.com/img/octopus-64x64.png">
 </p>
-##Education
+## Education
 
 - 12-week _nology full-stack development course
 - Bachelor of Computer Science 2:1 - Brunel University
