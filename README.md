@@ -12,9 +12,9 @@ This was a full-stack web application built using Python/Django for the backend,
 
 A classic game of Tetris built using HTML, CSS and vanilla JavaScript. The game is displayed using HTML canvas, goes up to 10 levels and mimics the "death screen" of the classic Tetris game while additionally having the modern feature of holding blocks. 
 
-### Group Project: Skin Clinic Front Desk and Stock System
+### Group Project: Client Project - Skin clinic front-desk system
 
-A group project that I worked on, which involved creating a front desk and stock system for a skin clinic. We used HTML, SASS & React (functional based components) for the frontend and Firebase authentication for a login system. Each component/page is tested using React Testing Library.
+A group project that I and other trainees at _nology created in two weeks, which involved creating a front desk and stock system for a skin clinic. We used HTML, SASS & React (functional based components) for the frontend and Firebase authentication for a login system. Each component/page is tested using React Testing Library. We uilised Scrum to complete this project, in 4 day sprints. Each sprint I peer programmed with a different trainee. 
 
 ### Calculator
 
