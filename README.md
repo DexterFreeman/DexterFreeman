@@ -25,7 +25,6 @@ A game of Hangman that runs in the terminal, using Java.
 A card game of Snap that runs in the terminal, using Java.
 
 ## Skills
-
 <p align="center">
   <img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">&nbsp;&nbsp;&nbsp;
   <img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">&nbsp;&nbsp;&nbsp;
@@ -41,7 +40,7 @@ A card game of Snap that runs in the terminal, using Java.
   <img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg">&nbsp;&nbsp;&nbsp;
   <img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">&nbsp;&nbsp;&nbsp;
   <img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg">&nbsp;&nbsp;&nbsp;
-  <img height="30" src="https://raw.githubusercontent.com/testing-library/react-testing-library/master/other/octopus.png">
+  <img height="30" src="https://testing-library.com/img/octopus-64x64.png">
 </p>
 ##Education
 
