@@ -29,7 +29,7 @@ A card game of Snap that runs in the terminal, using Java.
   <img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">&nbsp;&nbsp;&nbsp;
   <img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">&nbsp;&nbsp;&nbsp;
   <img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">&nbsp;&nbsp;&nbsp;
-  <img height="30" src="https://w7.pngwing.com/pngs/159/366/png-transparent-django-python-computer-icons-logo-python-text-label-rectangle-thumbnail.png">&nbsp;&nbsp;&nbsp;
+  <img height="30" src="[https://w7.pngwing.com/pngs/159/366/png-transparent-django-python-computer-icons-logo-python-text-label-rectangle-thumbnail.png](https://www.djangoproject.com/m/img/logos/django-logo-negative.png)">&nbsp;&nbsp;&nbsp;
   <img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">&nbsp;&nbsp;&nbsp;
   <img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">&nbsp;&nbsp;&nbsp;
   <img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">&nbsp;&nbsp;&nbsp;
