@@ -42,6 +42,7 @@ A card game of Snap that runs in the terminal, using Java.
   <img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg">&nbsp;&nbsp;&nbsp;
   <img height="30" src="https://testing-library.com/img/octopus-64x64.png">
 </p>
+
 ## Education
 
 - 12-week _nology full-stack development course
