@@ -6,23 +6,25 @@ I'm Dexter, an ambitious Junior Full-Stack Developer with experience in a variet
 
 ### Full-Stack Django Web Application
 
-This was a full-stack web application built using Python/Django for the backend, Node.js for the frontend, and React & MateriaLUI for the UI. It was designed to help users organise and manage their online meetings. I utilised the Zoom and Google Calendar API and a REST API for this project. 
+This was a full-stack web application built using Python/Django for the backend, Node.js for the frontend, and React (class based components) & Material UI for the UI. It was designed to help users organise and manage their online meetings. I utilised the Zoom API, Google Calendar API and a REST API for this project. 
 
 ### Tetris
 
-A classic game of Tetris built using HTML, CSS and vanilla JavaScript. 
+A classic game of Tetris built using HTML, CSS and vanilla JavaScript. The game is displayed using HTML canvas, goes up to 10 levels and mimics the "death screen" of the classic Tetris game while additionally having the modern feature of holding blocks. 
 
 ### Group Project: Skin Clinic Front Desk and Stock System
 
-A group project that I worked on, which involved creating a front desk and stock system for a skin clinic. We used HTML, SASS & React for the frontend and Firebase authentication for a login system. Each component/page was tested using React Testing Library.
+A group project that I worked on, which involved creating a front desk and stock system for a skin clinic. We used HTML, SASS & React (functional based components) for the frontend and Firebase authentication for a login system. Each component/page is tested using React Testing Library.
 
-### Hangman & Snap Game
+### Calculator
 
-A game of Hangman that runs in the terminal, using Java.
+I created a calculator using vanilla JS, HTML and SASS. I've also done some E2E testing using Cypress. The calculator can: add, multiple, divide, subtract, square root, percentage, use negative numbers, decimals, roound to the nearest whole number, use scientific notation and use PI. 
 
-### Snap Card Game
+### Hangman & Snap Card Game
 
-A card game of Snap that runs in the terminal, using Java.
+Two Java games which use the terminal for the UI and user input. 
+
+
 
 ## Skills
 <p align="center">
