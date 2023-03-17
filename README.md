@@ -26,22 +26,23 @@ A card game of Snap that runs in the terminal, using Java.
 
 ## Skills
 
-- ![Python](https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg) 
-- ![JavaScript](https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg)
-- ![Java](https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg)
-- ![Django](https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg)
-- ![React](https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg)
-- ![MySQL](https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg)
-- ![PostgreSQL](https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg)
-- ![Git](https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg)
-- ![GitHub](https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg)
-- ![HTML](https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg)
-- ![SCSS/SASS](https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg)
-- ![Bootstrap](https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg)
-- ![Node.js](https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg)
-- ![Firebase Auth](https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg)
-- ![React Testing Library](https://raw.githubusercontent.com/testing-library/react-testing-library/master/other/octopus.png)
-
+<p align="center">
+  <img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">&nbsp;&nbsp;&nbsp;
+  <img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">&nbsp;&nbsp;&nbsp;
+  <img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">&nbsp;&nbsp;&nbsp;
+  <img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-line.svg">&nbsp;&nbsp;&nbsp;
+  <img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">&nbsp;&nbsp;&nbsp;
+  <img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">&nbsp;&nbsp;&nbsp;
+  <img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">&nbsp;&nbsp;&nbsp;
+  <img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">&nbsp;&nbsp;&nbsp;
+  <img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg">&nbsp;&nbsp;&nbsp;
+  <img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">&nbsp;&nbsp;&nbsp;
+  <img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg">&nbsp;&nbsp;&nbsp;
+  <img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg">&nbsp;&nbsp;&nbsp;
+  <img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">&nbsp;&nbsp;&nbsp;
+  <img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg">&nbsp;&nbsp;&nbsp;
+  <img height="30" src="https://raw.githubusercontent.com/testing-library/react-testing-library/master/other/octopus.png">
+</p>
 ##Education
 
 - 12-week _nology full-stack development course
