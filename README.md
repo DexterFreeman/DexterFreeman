@@ -11,27 +11,27 @@ I'm Dexter, an ambitious Junior Full-Stack Developer with experience in a variet
 </details>
 
 <details>
-  <summary>Tetris</summary>
+  <summary>Tetris - Vanilla JS</summary>
   <br>
   A classic game of Tetris built using HTML, CSS and vanilla JavaScript. The game is displayed using HTML canvas, goes up to 10 levels, and mimics the "death screen" of the classic Tetris game while additionally having the modern feature of holding blocks. 
 </details>
 
 <details>
-  <summary>Group Project: Skin Clinic Front Desk and Stock System</summary>
+  <summary>Group Project: Front desk system in React</summary>
   <br>
   A group project that I and other trainees at _nology created in two weeks, which involved creating a front desk and stock system for a skin clinic. We used HTML, SASS & React (functional based components) for the frontend and Firebase authentication for a login system. Each component/page is tested using React Testing Library. We utilised Scrum to complete this project, in 4 day sprints. Each sprint, I peer programmed with a different trainee. 
 </details>
 
 <details>
-  <summary>Calculator</summary>
+  <summary>Calculator - Vanilla JS</summary>
   <br>
   I created a calculator using vanilla JS, HTML and SASS. I've also done some E2E testing using Cypress. The calculator can: add, multiply, divide, subtract, square root, percentage, use negative numbers, decimals, round to the nearest whole number, use scientific notation, and use PI. 
 </details>
 
 <details>
-  <summary>Hangman & Snap Card Game</summary>
+  <summary>Java console games</summary>
   <br>
-  Two Java games which use the terminal for the UI and user input. 
+  Two Java games which use the terminal for the UI and user input. The first being hangman and the second being the card game Snap. 
 </details>
 
 ## Skills
