@@ -5,19 +5,19 @@ I'm Dexter, an ambitious Junior Full-Stack Developer with experience in a variet
 ## Projects
 
 <details>
-  <summary>Full-Stack Django Web Application</summary>   
+  <summary>Online Meeting Manager - Django</summary>   
   <br>
   This was a full-stack web application built using Python/Django for the backend, Node.js for the frontend, and React (class based components) & Material UI for the UI. It was designed to help users organise and manage their online meetings. I utilised the Zoom API, Google Calendar API, and a REST API for this project. 
 </details>
 
 <details>
-  <summary>Tetris - Vanilla JS</summary>
+  <summary>Tetris - Vanilla JS, HTML, CSS</summary>
   <br>
   A classic game of Tetris built using HTML, CSS and vanilla JavaScript. The game is displayed using HTML canvas, goes up to 10 levels, and mimics the "death screen" of the classic Tetris game while additionally having the modern feature of holding blocks. 
 </details>
 
 <details>
-  <summary>Group Project: Front desk system in React</summary>
+  <summary>Skin Clinic System - React (Group Project)</summary>
   <br>
   A group project that I and other trainees at _nology created in two weeks, which involved creating a front desk and stock system for a skin clinic. We used HTML, SASS & React (functional based components) for the frontend and Firebase authentication for a login system. Each component/page is tested using React Testing Library. We utilised Scrum to complete this project, in 4 day sprints. Each sprint, I peer programmed with a different trainee. 
 </details>
