@@ -55,10 +55,6 @@ I'm Dexter, an ambitious Junior Full-Stack Developer with experience in a variet
 
 [![Dexter's GitHub stats](https://github-readme-stats.vercel.app/api?username=DexterFreeman)](https://github.com/DexterFreeman/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DexterFreeman&layout=compact)](https://github.com/DexterFreeman/github-readme-stats)
-## Education
 
-- 12-week _nology full-stack development course
-- Bachelor of Computer Science 2:1 - Brunel University
-- A level Geography, Music and Computer Science
 
 Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/dexter-freeman-958625223/)! 😊
