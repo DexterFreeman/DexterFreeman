@@ -1,6 +1,6 @@
 # Hi there! 👋
 
-I'm Dexter, an ambitious Junior Full-Stack Developer with experience in a variety of projects, ranging from simple Java terminal games to full-stack web applications! I recently graduated from Brunel University with a 2:1 in Computer Science and have been training with _nology to develop and refine my software engineering skills. I possess comprehensive technical capabilities with a strong knowledge of programming software, application, and development. 
+I'm Dexter, an ambitious Full-Stack Developer with experience in a variety of projects & languages, ranging from simple Java terminal games to full-stack web applications! I recently graduated from Brunel University with a 2:1 in Computer Science and have completed training with _nology to further develop and refine my software engineering skills. I possess comprehensive technical capabilities with a strong knowledge of programming software, application, and development. 
 
 ## Projects
 
