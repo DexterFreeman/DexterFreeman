@@ -53,7 +53,7 @@ I'm Dexter, an ambitious Full-Stack Developer with experience in a variety of pr
   <img height="30" src="https://testing-library.com/img/octopus-64x64.png">
 </p>
 
-[![Dexter's GitHub stats](https://github-readme-stats.vercel.app/api?username=DexterFreeman)](https://github.com/DexterFreeman/github-readme-stats)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DexterFreeman&layout=compact)](https://github.com/DexterFreeman/github-readme-stats)
 
 
